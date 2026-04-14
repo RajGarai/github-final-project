@@ -8,3 +8,4 @@ This repository contains all tasks for the final Git and GitHub project.
 
 ## Author
 - Your Name
+"Fixing typo" 
